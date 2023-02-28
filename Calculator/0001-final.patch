@@ -1,0 +1,100 @@
+From 429589904366623a50a3faf4ff1b26e6e6b2aea7 Mon Sep 17 00:00:00 2001
+From: Nishi Singh <nishisingh1028@gmail.com>
+Date: Sun, 26 Feb 2023 12:39:09 +0530
+Subject: [PATCH] final
+
+---
+ Calculator/__pycache__/Subtract.cpython-310.pyc | Bin 0 -> 266 bytes
+ Calculator/__pycache__/add.cpython-310.pyc      | Bin 0 -> 261 bytes
+ Calculator/__pycache__/division.cpython-310.pyc | Bin 0 -> 271 bytes
+ Calculator/__pycache__/multiply.cpython-310.pyc | Bin 0 -> 266 bytes
+ Calculator/__pycache__/power.cpython-310.pyc    | Bin 0 -> 265 bytes
+ Calculator/main.py                              |   2 +-
+ 6 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 Calculator/__pycache__/Subtract.cpython-310.pyc
+ create mode 100644 Calculator/__pycache__/add.cpython-310.pyc
+ create mode 100644 Calculator/__pycache__/division.cpython-310.pyc
+ create mode 100644 Calculator/__pycache__/multiply.cpython-310.pyc
+ create mode 100644 Calculator/__pycache__/power.cpython-310.pyc
+
+diff --git a/Calculator/__pycache__/Subtract.cpython-310.pyc b/Calculator/__pycache__/Subtract.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..8eea57b78851f189ca7270b3e0002292b56fbc8d
+GIT binary patch
+literal 266
+zcmd1j<>g`kf=-s-$+AHDF^Gc<n1CDyATH(s5-AKRj4cdN3@J>(44TZzAUPNSu|e1w
+zh>JOZL=8g?qXYv`9i!h$22G}0jET1xlZqIDGGOADXR=jHXmM&$aZFxjaYkm0e_pCf
+zQD#|cj7xrUX>Mv>NpXyGVnK09eqL&PKv8~HYH|rsASbyrC$S{IC?>cxsiY_|xkRs^
+u@)mP(X%fibVvqwk7>ihel%FPqM%V~pu>j?6aoFVMr<CTT+QD`4FaQ8VwKjYJ
+
+literal 0
+HcmV?d00001
+
+diff --git a/Calculator/__pycache__/add.cpython-310.pyc b/Calculator/__pycache__/add.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..56cc6c0f5ef43ab3ec42f1015ae422dc4af37128
+GIT binary patch
+literal 261
+zcmd1j<>g`kf=-s-$+AHDF^Gc<n1CDyATH(s5-AKRj4cdN3@J>(44TZzAUPNSu|e1w
+zh>JOZL=8g?qc{Ul9i!h$22G}0jET1xlZqIDGGOADOR`l=XmM&$aZFxjaYkm0e_pCf
+zQD#|cj7xrUX>Mv>NpXyGVnK09eqL&PKv8~HYH|rsASbyrC$S{IC?+u_MX#Xp7Bi3r
+nnOO|7n}e~46-fDMLTH3#5Ecti?iPnlZhlH>PO2ST7Y_pf$|N*4
+
+literal 0
+HcmV?d00001
+
+diff --git a/Calculator/__pycache__/division.cpython-310.pyc b/Calculator/__pycache__/division.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..d537a583b61b45a9879de23fe89d572d2ae332f6
+GIT binary patch
+literal 271
+zcmd1j<>g`kf=-s-$x1-_F^Gc<n1CDyATH(s5-AKRj4cdN3@J>(44TZzAUPNSu|e1w
+zh>JOZL=8g?qcj6h9i!h$22G}0jET1xlZqIDGGOADXR=jHXmM&$aZFxjaYkm0e_pCf
+zQD#|cj7xrUX>Mv>NpXyGVnK09eqL&PKv8~HYH|rsASbyrC$S{IC?+MdEVDQ>KTofq
+s@)ie-12VlB<O&YPB32;frwO4E)<Re;K)G8SHo5sJr8%i~a9unM0L`p8!2kdN
+
+literal 0
+HcmV?d00001
+
+diff --git a/Calculator/__pycache__/multiply.cpython-310.pyc b/Calculator/__pycache__/multiply.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..3c6e1c32f78abf72fc84a9d3a6466dc8c693f29f
+GIT binary patch
+literal 266
+zcmYjLOA5j;6nv=)McSQP573PV5D~#{+*Co_NI+^Du#zSvAEDsV%Xp=3y@eq7qWBq@
+znKzmIR2=sK(R<w45dG%EKLQLhq=`@pD98o2Py}m8I?Q(;_}O!gG$G0v&SU_%k7QR!
+zf|leh*=vH$OYRFcrW?bxp|UiGk}f4rb$Q}6Rm@dfT0`e~ZLE@fx6<m!nZ*UcoXD-x
+rv~t3hwP;3l({?cUi;e$4NOTV^OWyu_@jZ31Yr{#U3McsVdn$q_$QCy!
+
+literal 0
+HcmV?d00001
+
+diff --git a/Calculator/__pycache__/power.cpython-310.pyc b/Calculator/__pycache__/power.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..e5201519f54a2f0a0a625f6e3a86c87056ba6ddb
+GIT binary patch
+literal 265
+zcmd1j<>g`kf=-s-$x1-_F^Gc<n1CDyATH(s5-AKRj4cdN3@J>(44TZzAUPNSu|e1w
+zh>JOZL=8g?qay=Q9i!h$22G}0jET1xlZqIDGGOADTe4M5XmM&$aZFxjaYkm0e_pCf
+zQD#|cj7xrUX>Mv>NpXyGVnK09eqL&PKv8~HYH|rsASbyrC$S{ID5fC4Jhe!#pz;<g
+pm<2Mo7-T;OV-YKm^3#OS2n!)B7NFcM4x8Nkl+v73JGd?$1^_8DHgNy|
+
+literal 0
+HcmV?d00001
+
+diff --git a/Calculator/main.py b/Calculator/main.py
+index ad16824..4642477 100644
+--- a/Calculator/main.py
++++ b/Calculator/main.py
+@@ -4,7 +4,7 @@ from division import division
+ from multiply import mul
+ from power import power
+ 
+-ch = int(input("What you want to do:\n1. Subtract\n2. Add\n3. Multiplication\n4. Division\n5. Power"))
++ch = int(input("What you want to do:\n1. Subtract\n2. Add\n3. Multiplication\n4. Division\n5. Power\n"))
+ x,y = map(int,input("Enter number like(1 2): ").split())
+ if ch == 1:
+     print(sub(x,y))
+-- 
+2.39.0.windows.2
+
