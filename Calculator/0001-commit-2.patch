@@ -1,0 +1,22 @@
+From 92ddda6ab2fc1cc267fc2cd2152311c4d299c747 Mon Sep 17 00:00:00 2001
+From: pallavi15072002 <pallaviranganathgowda@gmail.com>
+Date: Sun, 26 Feb 2023 12:13:21 +0530
+Subject: [PATCH] commit 2
+
+---
+ Calculator/add.py | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 Calculator/add.py
+
+diff --git a/Calculator/add.py b/Calculator/add.py
+new file mode 100644
+index 0000000..338a7a0
+--- /dev/null
++++ b/Calculator/add.py
+@@ -0,0 +1,2 @@
++def add(a,b):
++    return a+b
+\ No newline at end of file
+-- 
+2.37.1 (Apple Git-137.1)
+
