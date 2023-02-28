@@ -1,0 +1,20 @@
+From 980996b097e906af5f5df40400c6b69edf75149e Mon Sep 17 00:00:00 2001
+From: arnav2305 <arnav.pandey20@st.niituniversity.in>
+Date: Sun, 26 Feb 2023 12:44:34 +0530
+Subject: [PATCH] commit 8
+
+---
+ Calculator/power.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Calculator/power.py b/Calculator/power.py
+index 08c298a..451fb22 100644
+--- a/Calculator/power.py
++++ b/Calculator/power.py
+@@ -1,2 +1,2 @@
+ def power (a,b):
+-    return a^b
++    return a**b
+-- 
+2.39.0.windows.2
+
