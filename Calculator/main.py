@@ -1,11 +1,8 @@
-from Subtract import sub
-from add import add
-from division import division
-from multiply import mul
-from power import power
+from calc import *
 
-ch = int(input("What you want to do:\n1. Subtract\n2. Add\n3. Multiplication\n4. Division\n5. Power"))
-x,y = map(int,input("Enter number like(1 2): ").split())
+
+ch = int(input("What you want to do:\n1. Subtract\n2. Add\n3. Multiplication\n4. Division\n5. Power\n"))
+x,y = map(int,input("Enter the operators separated by space: ").split())
 if ch == 1:
     print(sub(x,y))
 elif ch == 2:
@@ -17,4 +14,4 @@ elif ch == 4:
 elif ch == 5:
     print(power(x,y))
 else:
-    print(":O Wrong INPUT...\nInput Again.")
+    print("\nThis input is not supported")
