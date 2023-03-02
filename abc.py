@@ -1,2 +1,2 @@
 print("hello ")
-print("Updtaed now QSQsd")
+print("Updtaed now")
